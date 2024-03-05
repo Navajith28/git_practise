@@ -1,0 +1,8 @@
+This is the practise seesion of git file uploading and testing it for push and pull operations
+
+first lets track the file by using git add <filename>
+lets commit 
+lets push
+lets clone 
+lets pull
+lets fetch and merge for changes
